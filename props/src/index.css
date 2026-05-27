@@ -1,0 +1,10 @@
+.student {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid gold;
+}
+
+.student p {
+  margin: 0;
+}

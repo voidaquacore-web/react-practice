@@ -1,0 +1,31 @@
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #00000070;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: rgb(250, 156, 189);
+}
+
+.card .card-img {
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+   border: 2px double papayawhip;
+}
+
+.card .card-title {
+  font-family: 'Courier New', Courier, monospace;
+  color: #892be2bb;
+ 
+}
+
+.card .card-text {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #a0677afa;
+  text-shadow: 0px 0px 1px black;
+}
